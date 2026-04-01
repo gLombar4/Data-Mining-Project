@@ -1,7 +1,5 @@
-# Data-Mining-Project
-Weekly Contribution Logs
--------------------------
-WEEK 2:  
+# Data-Mining-Project | Weekly Contribution Logs
+# WEEK 2:  
 California Housing Market Data Analysis  
 Group 2 | Course: Introduction to Data Mining  
 | Member Name | Responsibilities | Deliverables/Nodes Owned | Percentage Effort |
@@ -31,3 +29,5 @@ above.
 ○ Mujtaba Ali Khan: Mujtaba Ali Khan Date: 3/28/26  
 ○ Dalton Fowler: Dalton Fowler Date: 3/28/26  
 ○ Jacob Ware: Jacob Ware Date: 3/28/26  
+# Week 3:
+WIP
