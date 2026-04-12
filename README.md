@@ -68,4 +68,36 @@ above.
 ○ Dalton Fowler: Dalton Fowler Date: 4/12/26  
 ○ Jacob Ware: Jacob Ware Date: 4/12/26  
 # Week 4:
+California Housing Market Data Analysis  
+Group 2 | Course: Introduction to Data Mining 
+| Member Name      | Key Responsibilities               | Deliverables/ Nodes Owned                                        | Percentage Effort |
+|------------------|------------------------------------|------------------------------------------------------------------|-------------------|
+| Garrett Lombard  | Form/ReadMe Writeup / Target Swap  | Deliverable 4 - Target Swap                                      | 20%               |
+| Harry John       | Pipeline Construction / Bias Check | Deliverable 4 - Bias Check Deliverable 4 - Pipeline Construction | 20%               |
+| Dalton Fowler    | Bias Check                         | Deliverable 4 - Bias Check                                       | 20%               |
+| Mujtaba Ali Khan | Pipeline construction              | Deliverable 4 - Pipeline Construction                            | 20%               |
+| Jacob Ware       | Target Swap                        | Deliverable 4 - Target Swap                                      | 20%               |
+-------------------------  
+Version Control & Infrastructure
+
+● Primary Communication Platform: Discord 
+
+● Github Repo: You're on it!  
+
+-------------------------
+ Workflow Documentation
+ 
+● KNIME Workflow Overview: This deliverable has 3 elements: Using linear regression, explaining overprediction with groupBy and box plots, and predicting median income.  
+
+● Key Annotations: Regression predictors are the most important nodes in this deliverable, as well as the bias check explaining overprediction trends.
+Group Agreement & Attestation
+
+-------------------------  
+By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.
+Garrett Lombard: Garrett Lombard Date: 4/12/26  
+Harry John: Harry John Date: 4/12/26  
+Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/12/26  
+Dalton Fowler: Dalton Fowler Date: 4/12/26  
+Jacob Ware: Jacob Ware Date: 4/12/26  
+# Week 5
 WIP
