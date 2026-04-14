@@ -22,8 +22,6 @@ graphically.
 
 ● Key Annotations: Top 3 Vital nodes: Numeric outliers, missing values, histogram  
 
-● Known Limitations: N/A  
-
 -------------------------  
 Group Agreement & Attestation  
 By signing below, all team members confirm that the work contained within this repository is the  
@@ -62,11 +60,11 @@ Group Agreement & Attestation
 By signing below, all team members confirm that the work contained within this repository is the  
 result of a collaborative effort and that all individual contributions are fairly represented in the log  
 above.  
-○ Garrett Lombard: Garrett Lombard Date: 4/12/26  
-○ Harry John: Harry John Date: 4/12/26   
-○ Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/12/26  
-○ Dalton Fowler: Dalton Fowler Date: 4/12/26  
-○ Jacob Ware: Jacob Ware Date: 4/12/26  
+○ Garrett Lombard: Garrett Lombard Date: 4/5/26  
+○ Harry John: Harry John Date: 4/5/26   
+○ Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/5/26  
+○ Dalton Fowler: Dalton Fowler Date: 4/5/26  
+○ Jacob Ware: Jacob Ware Date: 4/5/26  
 # Week 4:
 California Housing Market Data Analysis  
 Group 2 | Course: Introduction to Data Mining 
@@ -93,11 +91,11 @@ Version Control & Infrastructure
 Group Agreement & Attestation
 
 -------------------------  
-By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.
-Garrett Lombard: Garrett Lombard Date: 4/12/26  
-Harry John: Harry John Date: 4/12/26  
-Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/12/26  
-Dalton Fowler: Dalton Fowler Date: 4/12/26  
-Jacob Ware: Jacob Ware Date: 4/12/26  
+By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.  
+○ Garrett Lombard: Garrett Lombard Date: 4/12/26  
+○ Harry John: Harry John Date: 4/12/26  
+○ Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/12/26  
+○ Dalton Fowler: Dalton Fowler Date: 4/12/26  
+○ Jacob Ware: Jacob Ware Date: 4/12/26  
 # Week 5
 WIP
