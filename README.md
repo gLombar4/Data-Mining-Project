@@ -98,4 +98,33 @@ By signing below, all team members confirm that the work contained within this r
 ○ Dalton Fowler: Dalton Fowler Date: 4/12/26  
 ○ Jacob Ware: Jacob Ware Date: 4/12/26  
 # Week 5
-WIP
+California Housing Market Data Analysis  
+Group 2 | Course: Introduction to Data Mining 
+| Member Name      | Responsibilities                                | Deliverables/Nodes Owned                           | Percentage Effort |
+|------------------|-------------------------------------------------|----------------------------------------------------|-------------------|
+| Garrett Lombard  | Logistic Regression /  Random Forest Comparison | Logistic Regression, Random Forest                 | 20%               |
+| Harry John       | Skew Mitigation                                 | Math Formula, Histograms                           | 20%               |
+| Dalton Fowler    | Misc. help with other groupmates                | Logistic Regression, Random Forest, Math Formula   | 20%               |
+| Mujtaba Ali Khan | Addressing Overprediction                       | Histogram, Math Formula, Numeric Scorer, Tile View | 20%               |
+| Jacob Ware       | Error Reduction                                 | Numeric Scorer, Random Forest Learner              | 20%               |
+-------------------------  
+Version Control & Infrastructure
+
+● Primary Communication Platform: Discord 
+
+● Github Repo: You're on it!  
+
+-------------------------
+ Workflow Documentation
+ 
+● KNIME Workflow Overview: This deliverable has 4 key elements: Addressing overprediction, skew mitigation, error reduction, and classification comparison.
+
+● Key Annotations: The Random Forest classification method most accurately portrays the data.
+
+-------------------------  
+By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.  
+○ Garrett Lombard: Garrett Lombard Date: 4/19/26  
+○ Harry John: Harry John Date: 4/19/26  
+○ Mujtaba Ali Khan: Mujtaba Ali Khan Date: 4/19/26  
+○ Dalton Fowler: Dalton Fowler Date: 4/19/26  
+○ Jacob Ware: Jacob Ware Date: 4/19/26  
